@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467272099353",
+    "project_id": "commun-ebd2a",
+    "storage_bucket": "commun-ebd2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467272099353:android:26fb9ddbbeb02d77966c88",
+        "android_client_info": {
+          "package_name": "com.company.CommUn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSddnsY9CEV065DqJawMpBwPwsk6UQHlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467272099353:android:278a885fcdaef534966c88",
+        "android_client_info": {
+          "package_name": "com.gustavo.commun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSddnsY9CEV065DqJawMpBwPwsk6UQHlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
